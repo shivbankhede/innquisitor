@@ -9,7 +9,7 @@ Check out our live demo at [Hotel Booking Website](https://innquisitor.onrender.
 
 ## Project Video
 
-Watch our project video at [Project Video](https://youtu.be/tvMy1AiOZxI?si=Rkl6r_ds9yUvJv_f).
+Watch our project video at [Project Video](https://youtu.be/liju6Y3D_N0).
 
 
 ## Features
