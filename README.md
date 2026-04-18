@@ -3,10 +3,6 @@
 Welcome to our Hotel Booking Website! This project is a full-stack web application that allows users to browse, book, and manage hotel listings. The website includes features such as user authentication, hotel listings management, reservation requests, and payment processing.
 
 
-## Demo
-
-Check out our live demo at [Hotel Booking Website](https://innquisitor.onrender.com).
-
 ## Project Video
 
 Watch our project video at [Project Video](https://youtu.be/liju6Y3D_N0).
